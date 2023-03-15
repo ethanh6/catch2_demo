@@ -3,6 +3,6 @@ project(cmake2_demo)
 
 find_package(Catch2 3 REQUIRED)
 
-add_executable(my_tests my_tests.cpp)
+add_executable(tests tests.cpp)
 
-target_link_libraries(my_tests PRIVATE Catch2::Catch2WithMain)
+target_link_libraries(tests PRIVATE Catch2::Catch2WithMain)
