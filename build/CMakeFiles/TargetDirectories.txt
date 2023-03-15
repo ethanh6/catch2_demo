@@ -1,0 +1,3 @@
+/Users/ethanhuang/myExercise/catch2_demo/build/CMakeFiles/my_tests.dir
+/Users/ethanhuang/myExercise/catch2_demo/build/CMakeFiles/edit_cache.dir
+/Users/ethanhuang/myExercise/catch2_demo/build/CMakeFiles/rebuild_cache.dir
